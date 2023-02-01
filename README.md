@@ -6,7 +6,7 @@ Samla alla stjärnor. Stjärnorna är värde 10 poäng styck
 
 Akta dig för bomberna
 
-Om du blir träffad av en bomb är spelet över
+Du börjar med tre hjärtan. Om du blir träffad av en fiende förlorar du ett hjärta. När alla dina hjärtan är slut är spelet över.
 
 Om du samlar stjärnor för 300 poäng klarar du banan
 
