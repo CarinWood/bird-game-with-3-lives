@@ -10,4 +10,4 @@ Om du blir träffad av en bomb är spelet över
 
 Om du samlar stjärnor för 300 poäng klarar du banan
 
-<img src='./assets/birdgamepic.JPG' width="300"/>
+<img src='./assets/birdGameWithLives.PNG' width="300"/>
